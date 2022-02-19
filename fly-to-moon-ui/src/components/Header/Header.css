@@ -1,0 +1,36 @@
+
+.container{
+    /* border:3px solid; */
+    background-color: rgb(93, 24, 163);
+    text-align: center;
+    height: 100px;
+}
+
+ .dropdown{
+    border-width: 30px;
+    width: 100px;
+    border:3px solid;
+    border-color: red;
+    color: white;
+    text-align: left;
+}
+
+.btn{
+    color: white;
+    background-color: red;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.btn-1{
+    background-color: rgb(67, 58, 58);
+}
+
+.btn-2{
+    background-color: black;
+}
+
+.btn-3{
+    background-color: yellow;
+}
