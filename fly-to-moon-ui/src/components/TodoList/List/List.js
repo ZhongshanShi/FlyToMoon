@@ -14,7 +14,7 @@ export default function List(props) {
             <div>
               <ul>
                 {inputValue.map((item)=>
-                  <li key={item.id}><Item deleteItem={deleteItem} item={item}/></li>
+                  <Item key={item.id} item={item} deleteItem={deleteItem}/>
                 )}
               </ul>
             </div>

@@ -12,7 +12,7 @@ export default function Footer(props) {
 
   return (
             <div>
-                <button onClick={handleSubmit}>submit</button>
+                <button style={{backgroundColor:"blue"}} onClick={handleSubmit}>submit</button>
             </div>
          )
 }

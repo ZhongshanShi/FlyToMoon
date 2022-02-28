@@ -15,6 +15,12 @@ export default function Nagivation() {
                 <Link to="/todolist">
                     <li>TodoList</li>
                 </Link>
+                <Link to="/githubsearch">
+                    <li>GitHubSearch</li>
+                </Link>
+                <Link to="/learnRedux">
+                    <li>LearnRedux</li>
+                </Link>
             </ul>
          </nav>
 }
